@@ -1,0 +1,36 @@
+body {
+  padding: 10px; 
+  height: 100%;
+  background: lightskyblue;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: darkslateblue;
+}
+
+.center-text {
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.flex-item {
+  flex: 1; 
+}
+
+.fixed-height-element {
+  max-height: 600px;
+  overflow: hidden;
+}
+
+img {
+  max-width: 100%;
+}
